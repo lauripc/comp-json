@@ -9,7 +9,6 @@
 
 /*********** Inclusion de cabecera **************/
 
-#include <stdio.h>
 #include "anlexico.h"
 
 
