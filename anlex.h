@@ -36,10 +36,6 @@ typedef struct {
         int linea;
 } token;
 
-typedef struct {
-    char lexematrad[TAMLEX];
-} traducido;
-
 /***** Prototipos *****/
 
 void sigLex();
