@@ -9,7 +9,7 @@
 
 /*********** Inclusion de cabecera **************/
 
-#include "anlexico.h"
+#include "anlex.h"
 
 
 /************* Variables globales **************/
