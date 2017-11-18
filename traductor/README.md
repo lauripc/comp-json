@@ -1,6 +1,6 @@
-TRABAJO PRÁCTICO DE COMPILADORES Y LENGUAJES DE BAJO NIVEL
+TRABAJO PRÁCTICO 3 DE COMPILADORES Y LENGUAJES DE BAJO NIVEL
 
-_Analizador Léxico para un Json simplificado_
+_Traductor de un Json simplificado a XML_
 
 **Prof. Julio Paciello**
 
