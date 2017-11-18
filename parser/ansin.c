@@ -7,7 +7,7 @@
  */
 
 
-#include "anlex.h"
+#include "ansin.h"
 
 token t;
 FILE *archivo;
